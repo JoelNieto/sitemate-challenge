@@ -10,6 +10,6 @@ This app uses [NestJS](https://docs.nestjs.com/) for backend and [Angular](https
 
 ## Start the application
 
-Run `npm run starr` to start the development server. Happy coding!
+Run `npm run start` to start the development server. Navigate to `http://localhost:4200/`!
 
 
